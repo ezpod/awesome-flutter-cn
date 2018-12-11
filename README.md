@@ -13,9 +13,9 @@
   </a>
 </p>
 
-<a href="https://flutter.io/">Flutter</a> is a mobile app SDK for building high-performance, high-fidelity, apps for iOS and Android, from a single codebase.
+<a href="https://flutter.io/">Flutter</a>是一个移动App开发包，可以使用单一代码构建高性能、高保真的Android和iOS移动应用。
 
-If you appreciate the content 📖, support projects visibility, give 👍| ⭐| 👏
+如果你喜欢我们的内容，请支持这个项目！
 
 <div style="text-align: center"><table><tr>
   <td style="text-align: center">
@@ -37,71 +37,71 @@ If you appreciate the content 📖, support projects visibility, give 👍| ⭐|
 </td>
 </tr></table></div>
 
-## Contents
+## 内容
 
-- [Articles](#articles)
-- [Videos](#videos)
-- [Components](#components)
-- [Navigation](#navigation)
-- [Template](#templates)
-- [Plugins](#plugins)
-- [Frameworks](#frameworks)
-- [Open Source Apps](#open-source-apps)
-- [Utilities](#utilities)
-- [Community](#community)
-- [Books](#books)
-- [Bonus](#bonus)
+- [文章](#articles)
+- [视频](#videos)
+- [组件](#components)
+- [导航](#navigation)
+- [模板](#templates)
+- [插件](#plugins)
+- [框架](#frameworks)
+- [开源App](#open-source-apps)
+- [工具](#utilities)
+- [社区](#community)
+- [图书](#books)
+- [奖励](#bonus)
 
-## Articles
+## 文章
 
-### Begin with
+### 新手入门
 
 - [Google IO 2018](https://medium.com/flutter-io/building-beautiful-flexible-user-interfaces-with-flutter-material-theming-and-official-material-13ae9279ef19) [1.1K claps👏] - Building beautiful, flexible user interfaces.
-- [Zero to One](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) [3.3K claps👏] - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn).
-- [From Install to ListView](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) [736 claps👏] - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid).
+- [从零到壹](https://medium.com/dartlang/zero-to-one-with-flutter-43b13fd7b354) [3.3K claps👏] - Flutter basics by [Mikkel Ravn](https://medium.com/@mravn).
+- [从安装到列表视图](https://medium.com/@develodroid/flutter-i-intro-and-install-a8bf6dfcc7c8) [736 claps👏] - Full series of 4 articles by [Chema Rubio](https://twitter.com/develodroid).
 
-### Tutorial
+### 教程
 
-- [Animated Chat](https://codelabs.developers.google.com/codelabs/flutter/#0) - Building beautiful UIs by Google Code Labs.
-- [Firebase Chat](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase integration by Google Code Labs.
-- [Planets-Flutter: from design to app](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - Detailed planets design tutorial.
-- [Todo List](https://github.com/lesnitsky/todolist_flutter) – Step by step tutorial how to build Todo List with Flutter by [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
+- [动画聊天](https://codelabs.developers.google.com/codelabs/flutter/#0) - 构建美观的UI，Google Code Labs
+- [Firebase聊天](https://codelabs.developers.google.com/codelabs/flutter-firebase/#0) - Firebase集成， Google Code Labs
+- [Planets-Flutter: 从设计到应用实现](http://sergiandreplace.com/2017/09/planets-flutter-from-design-to-app) - 非常详尽的教程
+- [Todo列表实现](https://github.com/lesnitsky/todolist_flutter) – 如何使用Flutter构建一个Todo列表， [Andrei Lesnitsky](https://twitter.com/lesnitsky_a)
 
-### Howtos
+### 实现技巧
 
-- [Zero to One Animation](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) [886 claps👏] - Focus on animation by [Mikkel Ravn](https://medium.com/@mravn).
-- [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - App powered by Google Cloud Functions by [Romin Irani](https://rominirani.com/@iromin).
-- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) [420👍] - Firebase live coding.
-- [Securing Apps](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) [350 claps👏] - By Mehmet Fidanboylu.
-- [Build your plugins](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) [385 claps👏] - How to make a custom plug-in by [Karthik Ponnam](https://medium.com/@KarthikPonnam).
-- [Build Flavor](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) [744 claps👏] - Define build configurations and switch them by [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
-- [Animations in Flutter](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) [644 claps👏] - Commonly used animation examples by [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler).
+- [动画：从零到壹](https://medium.com/dartlang/zero-to-one-with-flutter-part-two-5aa2f06655cb) [886 claps👏] - 关注Flutter动画，[Mikkel Ravn](https://medium.com/@mravn).
+- [Google Cloud Functions](https://rominirani.com/tutorial-flutter-app-powered-by-google-cloud-functions-3eab0df5f957) - Google Cloud Functions支持的App， [Romin Irani](https://rominirani.com/@iromin).
+- [Firebase](https://www.youtube.com/watch?v=p4yLzYwy_4g) [420👍] - Firebase在线编程
+- [App安全性](https://medium.com/@mehmetf_71205/securing-flutter-apps-ada13e806a69) [350 claps👏] - Mehmet Fidanboylu.
+- [打造自己的插件](https://medium.com/@KarthikPonnam/build-your-own-plugin-for-flutter-cfee1a08ea3a) [385 claps👏] - 如何开发一个自定义插件， [Karthik Ponnam](https://medium.com/@KarthikPonnam).
+- [定制化构建过程](https://medium.com/@salvatoregiordanoo/flavoring-flutter-392aaa875f36) [744 claps👏] - 构建过程的配置与切换， [Salvatore Giordano](https://medium.com/@salvatoregiordanoo).
+- [Flutter中的动画](https://proandroiddev.com/animations-in-flutter-6e02ee91a0b2) [644 claps👏] - 常用动画示例， [Muhammed Salih Güler](https://proandroiddev.com/@muhammedsalihguler).
 
-### Websites / Blogs
+### 网站 / 博客
 
-- [SZAŁKO-BLOG](https://marcinszalek.pl/) - Step by step advanced design by [Marcin Szalek](https://marcinszalek.pl/).
-- [Sergi & Replace](https://sergiandreplace.com/) - Basic to advanced articles and tutorials [Sergi Martínez](https://github.com/sergiandreplace).
-- [Flutter by Example](https://flutterbyexample.com/) - Tutorials based on Redux, Firebase, Custom Animations, and UI.
-- [Flutter Institute](https://flutter.institute/) - Very original content and tutorials by [Brian Armstrong](https://twitter.com/flutterinst).
-- [Iirokrankka.com](https://iirokrankka.com/) - Articles and tutorials about Flutter, Dart and anything related by [Iiro Krankka](https://twitter.com/koorankka).
-- [Norbert](https://medium.com/@norbertkozsir) - In depth articles, features and app creation by [Norbert515](https://github.com/Norbert515).
-- [Welcome to Flutter](https://didierboelens.com) - English and French blog dedicated to providing practical solutions to most asked questions about Flutter by Didier Boelens.
-- [Flutter Tips](https://medium.com/@diegoveloper) - Articles, tips & tricks in the development by [Diego Velásquez](https://twitter.com/diegoveloper).
+- [SZAŁKO-BLOG](https://marcinszalek.pl/) - 高级设计技巧， [Marcin Szalek](https://marcinszalek.pl/).
+- [Sergi & Replace](https://sergiandreplace.com/) - 从初级到高级的文章与教程， [Sergi Martínez](https://github.com/sergiandreplace).
+- [Flutter实例](https://flutterbyexample.com/) - 示例教程，关于Redux, Firebase, 定制动画和UI.
+- [Flutter Institute](https://flutter.institute/) - 非常原创的内容与教程，[Brian Armstrong](https://twitter.com/flutterinst).
+- [Iirokrankka.com](https://iirokrankka.com/) - Flutter, Dart相关的文章与教程， [Iiro Krankka](https://twitter.com/koorankka).
+- [Norbert](https://medium.com/@norbertkozsir) - 深度文章， [Norbert515](https://github.com/Norbert515).
+- [Welcome to Flutter](https://didierboelens.com) - 提供关于Flutter的问题解答，Didier Boelens.
+- [Flutter Tips](https://medium.com/@diegoveloper) - 开发方面的文章与技巧，[Diego Velásquez](https://twitter.com/diegoveloper).
 
-### Advanced
+### 高级
 
-- [Rendering Pipeline](https://www.youtube.com/watch?v=UUfXWzp0-DU) [198👍] - Engine architecture by Adam Barth.
-- [Render Objects](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208) [1.4K claps👏] - What are Widgets, RenderObjects and Elements? by [Norbert515](https://github.com/Norbert515).
-- [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) - Skillmatters presentation by [Brian Egan](https://github.com/brianegan).
-- [Gesture System](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) [372 claps👏] - Flutter Deep Dive: Gestures by [Nash](https://nash0x7e2.github.io/).
-- [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) - Widget, State, Context and InheritedWidget explanations by [Didier Boelens](https://didierboelens.com).
-- [Rendering Engine Tutorial](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) [410 claps👏] - Flutter's Rendering Engine: A Tutorial by [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/).
-- [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) - Flutter’s InheritedWidget to hold app state by [Chema Molins](https://github.com/jmolins).
-- [Flutter: from Mobile to Desktop](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - Building applications for smartphones and desktops by [Marcelo Henrique Neppel](https://neppel.com.br).
+- [渲染流水线](https://www.youtube.com/watch?v=UUfXWzp0-DU) [198👍] - 引擎架构， Adam Barth.
+- [渲染对象](https://medium.com/flutter-community/flutter-what-are-widgets-renderobjects-and-elements-630a57d05208) [1.4K claps👏] - 什么是Widgets, RenderObjects和Elements?  [Norbert515](https://github.com/Norbert515).
+- [Streams and RxDart](https://skillsmatter.com/skillscasts/12254-flutter-with-streams-and-rxdart) -  [Brian Egan](https://github.com/brianegan).
+- [手势系统](https://medium.com/flutter-community/flutter-deep-dive-gestures-c16203b3434f) [372 claps👏] - 深入Flutter: 手势，[Nash](https://nash0x7e2.github.io/).
+- [Schemas](https://www.didierboelens.com/2018/06/widget---state---context---inheritedwidget/) - Widget, State, Context and InheritedWidget , [Didier Boelens](https://didierboelens.com).
+- [渲染引擎教程](https://medium.com/saugo360/flutters-rendering-engine-a-tutorial-part-1-e9eff68b825d) [410 claps👏] - Flutter渲染引擎教程， [AbdulRahman AlHamali](https://github.com/AbdulRahmanAlHamali/).
+- [Inherited Widget](https://medium.com/@chemamolins/is-flutters-inheritedwidget-a-good-fit-to-hold-app-state-2ec5b33d023e) - 使用Flutter的 InheritedWidget记录应用状态，[Chema Molins](https://github.com/jmolins).
+- [Flutter: 从移动到应用](https://medium.com/flutter-community/flutter-from-mobile-to-desktop-93635e8de64e) - 为手机和桌面构建应用，[Marcelo Henrique Neppel](https://neppel.com.br).
 
-## Videos
+## 视频
 
-- [Tensor Programming](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [69🎬] - Very rich content by [Tensor Programming](http://tensor-programming.com/).
+- [张量编程](https://www.youtube.com/watch?v=WwhyaqNtNQY&list=PLJbE2Yu2zumDqr_-hqpAN0nIr6m14TAsd) [69🎬] - 内容非常丰富，[Tensor Programming](http://tensor-programming.com/).
 - [Fluttery](https://www.youtube.com/channel/UCtWyVkPpb8An90SNDTNF0Pg) - High-production value and in-depth challenges.
 - [Brandon Donnelson](https://www.youtube.com/playlist?list=PLBbgqtDgdc_RUWUCInIqxpY--C94C6Xjh) [55🎬] - Videos on layout, database and tips by Brandon Donnelson.
 - [Mtechviral](https://www.youtube.com/watch?v=qWL1lGchpRA&list=PLR2qQy0Zxs_UdqAcaipPR3CG1Ly57UlhV) [114🎬] - [Hindi/English] Mtechviral Series By [Pawan Kumar](https://github.com/iampawan).
